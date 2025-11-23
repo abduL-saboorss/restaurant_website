@@ -1,2 +1,2 @@
-# cubix_website
-cubix demo website
+# restaurant_website
+restaurant demo website
